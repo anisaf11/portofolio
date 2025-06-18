@@ -1,0 +1,36 @@
+{
+    "name": "Anisa Nurul Fitroh",
+    "description": "I am a final-year Electronics Engineering student at Politeknik Negeri Semarang. I have hands-on experience in circuit design, microcontroller programming, and basic system integration. Proficient in tools like Proteus, EasyEDA, MATLAB, Node-RED, and Arduino IDE. I enjoy working in teams, solving problems, and continuously improving my skills through practical projects and internships.",
+    "profileImage": "images/profile.jpg",
+    "email": "anisanurulfitroh1024@gmail.com",
+    "phone": "+62 897-9380-504",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/anisa-nurul-fitroh"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/anisaf11"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/aniisaa.nrl/"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "PCB Design (Proteus, EasyEDA)", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Embedded Programming (Arduino, PLC)", "icon": "fas fa-cogs", "level": 85},
+        {"name": "MATLAB & LabView", "icon": "fas fa-code", "level": 70},
+        {"name": "Node-RED & IoT Systems", "icon": "fas fa-network-wired", "level": 70},
+        {"name": "Office Applications", "icon": "fas fa-file-alt", "level": 85},
+        {"name": "Circuit Troubleshooting", "icon": "fas fa-tools", "level": 70},
+        {"name": "Teamwork & Communication", "icon": "fas fa-users", "level": 85},
+        {"name": "English (TOEIC 740)", "icon": "fas fa-language", "level": 75}
+    ]
+}

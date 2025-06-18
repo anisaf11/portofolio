@@ -1,0 +1,29 @@
+[
+    {
+        "title": "IoT-based Water Pipe Leak Detection Device",
+        "year": "2024",
+        "partner": "Academic Project – Group Work",
+        "role": "Project Team Member",
+        "description": "Contributed to the development of an IoT-connected leak detection device. Participated in selecting components, assembling circuits, and programming for real-time data monitoring.",
+        "image": "images/project1.png",
+        "link": "Coming soon"
+    },
+    {
+		"title": "IoT-based Temperature Monitoring System",
+		"year": "2023",
+		"partner": "Academic Project – Group Work",
+		"role": "Project Team Member",
+		"description": "Helped build an IoT-enabled temperature monitoring system with LCD display and buzzer alert. Participated in planning, wiring, and basic code development for sensor integration.",
+		"image": "images/project2.png",
+		"link": "Coming soon"
+	},
+    {
+        "title": "Automated Storage and Retrieval System (ASRS)",
+        "year": "2024",
+        "partner": "PT Ruang Industri Indonesia",
+        "role": "Internship Project Member",
+        "description": "Involved in the development of an Automated Storage and Retrieval System. Programmed PLC Haiwell for system control, contributed to mechanical design and wiring, and helped source compatible components during internship.",
+        "image": "images/project3.jpeg",
+        "link": "Coming soon"
+    }
+]

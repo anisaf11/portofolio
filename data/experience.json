@@ -1,0 +1,30 @@
+[
+    {
+        "company": "Ruang Industri Indonesia",
+		"logo":"images/runindo-logo.jpeg",
+        "position": "Electronic Engineering Intern",
+        "year": "2024",
+        "description": "Contributed to the development of an Automated Storage and Retrieval System (ASRS) as part of the engineering division at PT Ruang Industri Indonesia. Responsible for assembling and testing electronic control components, validating system functionality, and supporting integration with automation hardware to ensure operational reliability."
+    },
+	{
+        "company": "Polytechnic English Conversation Club (PECC)",
+        "logo": "images/pecc-logo.jpeg",
+        "position": "General Treasurer",
+        "year": "2023 – 2024",
+        "description": "Managed financial responsibilities for both internal and external club operations. Handled cash funds, coordinated budgeting activities, and prepared monthly financial reports."
+    },
+    {
+        "company": "FKBSE 2023 – Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "position": "Volunteer Group Companion",
+        "year": "Sep 2023",
+        "description": "Assisted in event logistics by welcoming and guiding participants. Prepared materials, facilitated group coordination, and ensured participants followed the agenda smoothly."
+    },
+    {
+        "company": "PESIMA 2023 – Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "position": "Volunteer Group Companion",
+        "year": "Aug 2023",
+        "description": "Supported event execution by assisting participant groups with materials and direction. Helped participants complete assigned tasks and navigate the event venue efficiently."
+    }
+]
